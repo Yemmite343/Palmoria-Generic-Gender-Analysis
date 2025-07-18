@@ -39,20 +39,35 @@ This Power BI dashboard provides an in-depth analysis of gender equality, pay di
 ---
 ## Screenshot
 palmoria_dashboard.jpg
+
 salary_by_region_and_gender.jpg
-below_mini_wage.jpg
+
+below_mini_wage_card.jpg
+
 total_bonus.jpg
+
 total_employee.jpg
+
 gender_pay_gap_card.jpg
+
 avg_salary.jpg
+
 total_employees_by_salary_band.jpg
+
 total_compensation_by_region.jpg
+
 total_bonus_amount_by_region.jpg
+
 total_employees_by_gender_and_rating.jpg
+
 avg_salary_by_gender.jpg
+
 gender_by_dept.jpg
+
 total_employees_by_gender.jpg
+
 total_employees.jpg
+
 slicer_card.jpg
 
 ---
