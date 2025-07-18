@@ -4,10 +4,6 @@ This Power BI dashboard provides an in-depth analysis of gender equality, pay di
 
 ---
 
-## Dashboard Preview
-
-
----
 
 ## Objectives
 
@@ -36,12 +32,30 @@ This Power BI dashboard provides an in-depth analysis of gender equality, pay di
 - **Donut Chart** – Total Employees by Gender
 - **Bar Charts** – Salary by Gender, Bonus by Rating, Gender by Department
 - **Stacked Columns** – Employees by Region and Gender
-- **Line Chart** – Employees by Salary Band
+- **Column Chart** – Employees by Salary Band
 - **KPI Cards** – Salary, Bonus, Pay Gap, Min. Wage Count
 - **Interactive Slicers** – Gender, Region, Department, Rating
 
 ---
+## Screenshot
+palmoria_dashboard.jpg
+salary_by_region_and_gender.jpg
+below_mini_wage.jpg
+total_bonus.jpg
+total_employee.jpg
+gender_pay_gap_card.jpg
+avg_salary.jpg
+total_employees_by_salary_band.jpg
+total_compensation_by_region.jpg
+total_bonus_amount_by_region.jpg
+total_employees_by_gender_and_rating.jpg
+avg_salary_by_gender.jpg
+gender_by_dept.jpg
+total_employees_by_gender.jpg
+total_employees.jpg
+slicer_card.jpg
 
+---
 ## Key Insights
 
 - A significant portion of the workforce (559 employees) earns **below minimum wage**.
@@ -63,7 +77,7 @@ This Power BI dashboard provides an in-depth analysis of gender equality, pay di
 
 ## Note
 
-This dashboard is based on **fictional HR data** and was developed for demonstration, training, or case study purposes only.
+This dataset is based on **Digital Skill Africa (The Incubator Hub) case study** and was developed for demonstration, training, or case study purposes only.
 
 ---
 
