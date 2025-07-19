@@ -45,9 +45,9 @@ Below are key visual snapshots from the Power BI analysis on gender equality for
 |------------|-------------|
 | ![Dashboard](Screenshot/palmoria_dashboard.jpg) | Full overview of the Palmoria Gender Equality Dashboard |
 | ![Salary by Region](Screenshot/salary_by_region_and_gender.jpg) | Salary distribution by region and gender |
-| ![Below Min Wage](Screenshot/below_mini_wage.jpg) | Number of employees earning below minimum wage |
-| ![Total Bonus](Screenshot/total_bonus.jpg) | Total bonus amount distributed |
-| ![Total Employees](Screenshot/total_employee.jpg) | Overall employee count |
+| ![Below Min Wage](Screenshot/below_mini_wage_card.jpg) | Number of employees earning below minimum wage |
+| ![Total Bonus](Screenshot/total_bonus_card.jpg) | Total bonus amount distributed |
+| ![Total Employees](Screenshot/total_employee_card.jpg) | Overall employee count |
 | ![Gender Pay Gap](Screenshot/gender_pay_gap_card.jpg) | Gender pay gap key metric |
 | ![Average Salary](Screenshot/avg_salary.jpg) | Average salary overview |
 | ![Salary Band](Screenshot/total_employees_by_salary_band.jpg) | Employees grouped by salary bands |
