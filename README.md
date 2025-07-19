@@ -54,7 +54,7 @@ Below are key visual snapshots from the Power BI analysis on gender equality for
 | ![Compensation by Region](Screenshot/total_compensation_by_region.jpg) | Total compensation per region |
 | ![Bonus by Region](Screenshot/total_bonus_amount_by_region.jpg) | Bonus amount distributed across regions |
 | ![Rating by Gender](Screenshot/total_employees_by_gender_and_rating.jpg) | Performance ratings segmented by gender |
-| ![Avg Salary by Gender](Screenshot/avg_salary_by_gender_card.jpg) | Average salary comparison by gender |
+| ![Avg Salary by Gender](Screenshot/avg._salary_by_gender_card.jpg) | Average salary comparison by gender |
 | ![Gender by Dept](Screenshot/gender_by_dept.jpg) | Departmental gender breakdown |
 | ![Employees by Gender](Screenshot/total_employees_by_gender.jpg) | Gender distribution across all employees |
 | ![Total Employees](Screenshot/total_employees_region_and_gender.jpg) | Consolidated employee count snapshot |
